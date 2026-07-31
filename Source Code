@@ -1,8 +1,0 @@
-rtl/AC.v
-rtl/DFT_1.V
-rtl/DFT_16_POINT.v
-rtl/MUX.v
-rtl/MUX_4_4.v
-rtl/ROM.v
-rtl/decoder.v
-rtl/iteration.v
